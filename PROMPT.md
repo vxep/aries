@@ -4,6 +4,16 @@
 
 ## NOVEMBER
 
+### W46
+
+#### Sunday 08th November 2026
+
+```markdown
+
+ถ้าอันไหนไม่ sensitive คุณสั่งให้ MARS แก้ไปเลย
+
+```
+
 ### W45
 
 #### Sunday 01st November 2026
