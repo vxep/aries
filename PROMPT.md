@@ -1,8 +1,75 @@
 > ล่าสุดอยู่บน เก่าอยู่ล่าง
 
+
+
 # 2026
 
 ## NOVEMBER
+
+
+### W47
+
+
+#### Saturday 14th November 2026
+
+##### 18.19
+
+```markdown
+C:\KOLE\AIDEN\ARES\AUGUSTUS\SARGON\ARTERY\PROMPT.md สร้าง Heading ของวันนี้ให้หน่อย
+```
+##### 15.59
+
+```markdown
+จากข้อมูลนี้ ฝากแปลงเป็น commit message ใน format:
+
+[tag1]: [phrase1], [phrase2], ... and [phraseN] / [tag2]: [phrase1], [phrase2], ... and [phraseN] / [tag3]: [phrase1], [phrase2], ... and [phraseN] / ...
+
+Phrase คือวลีย่อของสิ่งที่ได้ทำไป ขอย่อมาก ๆ 
+
+Tags List (อันขวาคือ tag อันซ้ายคือนิยาม):
+
+# GENERAL
+
+PATH - ALLEY
+
+VISUAL - DAWN
+
+SYNTAX - SNOW
+
+# CODE
+
+REDUCE LATERNCY - DUTY
+
+SECURITY - GUARD
+
+SECRET - WHIRSPER
+
+PACKAGE - BOX
+
+TEST - DROPPER
+
+SCHEMA - SHELF
+
+FRONTEND - COSMIC
+
+# SOURCE OF TRUTH
+
+WORKFLOW LOGIC - WAND
+
+BREIF - BONE
+
+HEADING RESEQUENCING - ABOVE
+
+WORDING CHERRY PICK - BERRY
+
+TECH SPEC - TORCH
+
+BUSSINESS MODEL - GRAND
+
+UTILISED MINI WEBAPP - COOPER
+
+็ข้อมูลจะส่งให้ในข้อความถัดไป
+```
 
 ### W46
 
