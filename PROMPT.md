@@ -68,7 +68,7 @@ BUSSINESS MODEL - GRAND
 
 UTILISED MINI WEBAPP - COOPER
 
-็ข้อมูลจะส่งให้ในข้อความถัดไป
+ข้อมูลจะส่งให้ในข้อความถัดไป
 ```
 
 ### W46
